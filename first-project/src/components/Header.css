@@ -1,0 +1,13 @@
+.header-head{
+    background-color: blue;
+    color: white;
+    padding: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.moviews-reviews{
+    font-size: 30px;
+    font-weight: 800;
+}

@@ -1,0 +1,8 @@
+.wrapper {
+    display: flex;
+    flex-wrap: wrap; /* allows wrapping to the next row if needed */
+    gap: 2px; /* space between cards */
+    justify-content: center; /* centers the row */
+    background-color: #f9f9f9;
+  }
+  
